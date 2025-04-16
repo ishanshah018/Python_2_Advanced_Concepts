@@ -4,4 +4,4 @@ I am actively working on and strengthening my skills in some of the most in-dema
 	•	Machine Learning 
         • 	Web Development with Python
 	•	Django Framework
- and more..
+ and more...
